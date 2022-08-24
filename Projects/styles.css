@@ -1,0 +1,30 @@
+.projectName {
+  color: darkblue;
+  text-decoration: underline;
+}
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: cornflowerblue;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+table,
+th,
+td {
+  border: 0px solid;
+}
+td {
+  vertical-align: top;
+}
