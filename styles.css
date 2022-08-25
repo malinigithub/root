@@ -8,18 +8,13 @@ body {
 .simpleHeader {
   color: darkblue;
 }
-
-.on {
-  background: orange;
-}
-
 a:link {
   color: rgb(225, 0, 255);
 }
 
 /* visited link */
 a:visited {
-  color: cornflowerblue;
+  color: yellowgreen;
 }
 
 /* mouse over link */
