@@ -1,6 +1,30 @@
 body {
   font-family: Nunito, sans-serif;
 }
+.projectName {
+  color: darkblue;
+  text-decoration: underline;
+}
+.simpleHeader {
+  color: darkblue;
+}
+
+.on {
+  background: orange;
+}
+.content {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 5px;
+}
+div {
+  padding: 5px;
+  text-align: left;
+  border-style: none;
+  font-size: 2em;
+}
+
 a:link {
   color: rgb(225, 0, 255);
 }
@@ -18,4 +42,10 @@ a:hover {
 /* selected link */
 a:active {
   color: blue;
+}
+
+img {
+  height: auto;
+  width: 20%;
+  border-radius: 50%;
 }
