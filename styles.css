@@ -12,18 +12,6 @@ body {
 .on {
   background: orange;
 }
-.content {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr;
-  gap: 5px;
-}
-.bodyDiv {
-  padding: 5px;
-  text-align: left;
-  border-style: none;
-  font-size: 2em;
-}
 
 a:link {
   color: rgb(225, 0, 255);
@@ -48,4 +36,7 @@ img {
   height: auto;
   width: 20%;
   border-radius: 50%;
+}
+.col-2 {
+  width: 50%;
 }
