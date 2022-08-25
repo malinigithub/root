@@ -1,6 +1,6 @@
 # malini.github
 This is a portfolio website - construction in progress - beep beep!
-- Bio data is updated and project page is created
+- Bio data is updated and project page (https://malinigithub.github.io/root/Projects/ is created
 
 
 ### Projects
